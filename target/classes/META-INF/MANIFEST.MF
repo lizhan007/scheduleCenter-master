@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: scheduleCenter
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Shanhy
+Implementation-Vendor-Id: com.shanhy
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/scheduleCent
+ er/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
